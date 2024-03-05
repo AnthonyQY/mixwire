@@ -1,0 +1,7 @@
+.playButton:hover {
+  color: limegreen;
+}
+
+.closeButton:hover {
+  color: red;
+}
